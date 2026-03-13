@@ -830,7 +830,7 @@ timeTaken:30
 
 }
 
-await fetch("http://localhost:5257/api/score",{
+await fetch("https://puzzlegameapi.onrender.com/api/score",{
 
 method:"POST",
 
